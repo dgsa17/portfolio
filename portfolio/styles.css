@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family:"Exo 2";
+    color: #E2E2B6;
+    background-color: #03346E;
+}
+nav{
+    margin-left: 70%;
+    
+}
+.img_capa{
+    margin: auto;
+    display: block;
+    width: 300px;
+}
+.titulo{
+    text-align: center;
+   
+}
+.paragrafo{
+    text-align: center;
+}
+footer{
+    background-color: #021526;
+}
+.img_proj{
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+.img_sobre {
+    width: 20px;
+}
